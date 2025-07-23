@@ -1,0 +1,11 @@
+yt-dlp
+git+https://github.com/oliverfei/videocr-PaddleOCR.git
+paddleocr
+opencv-python
+
+# Use either CPU or GPU version of PaddleOCR
+# for gpu:
+paddlepaddle-gpu==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu118/
+
+# for cpu:
+# paddlepaddle==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
