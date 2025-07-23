@@ -35,7 +35,7 @@ Submit tasks to the producer server. Workers will pick them up automatically.
 
 ## 📝 Notes
 
-* Subtitle extraction logic in Python is currently commented for stability. 
+* Subtitle extraction logic in Python is currently paused due to environment setup issues.
 * You can scale worker replicas using:
 
 ```yaml
