@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/models"
+	"github.com/muhammadzaid-99/SubSnip/internal/models"
 
 	amqp "github.com/rabbitmq/amqp091-go"
 )

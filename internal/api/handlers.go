@@ -8,9 +8,9 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/google/uuid"
 
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/models"
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/queue"
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/status"
+	"github.com/muhammadzaid-99/SubSnip/internal/models"
+	"github.com/muhammadzaid-99/SubSnip/internal/queue"
+	"github.com/muhammadzaid-99/SubSnip/internal/status"
 )
 
 func SubmitTaskHandler(w http.ResponseWriter, r *http.Request) {

@@ -10,10 +10,10 @@ import (
 
 	"github.com/go-chi/chi/v5"
 
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/queue"
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/status"
+	"github.com/muhammadzaid-99/SubSnip/internal/queue"
+	"github.com/muhammadzaid-99/SubSnip/internal/status"
 
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/api"
+	"github.com/muhammadzaid-99/SubSnip/internal/api"
 )
 
 func init() {

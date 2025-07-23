@@ -1,4 +1,4 @@
-module github.com/muhammadzaid-99/vidsub-ocr
+module github.com/muhammadzaid-99/SubSnip
 
 go 1.24.0
 

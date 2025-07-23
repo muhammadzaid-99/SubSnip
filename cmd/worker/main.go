@@ -10,9 +10,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/models"
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/queue"
-	"github.com/muhammadzaid-99/vidsub-ocr/internal/status"
+	"github.com/muhammadzaid-99/SubSnip/internal/models"
+	"github.com/muhammadzaid-99/SubSnip/internal/queue"
+	"github.com/muhammadzaid-99/SubSnip/internal/status"
 )
 
 func init() {
