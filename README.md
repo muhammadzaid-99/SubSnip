@@ -1,6 +1,6 @@
-# vidsub-ocr
+# SubSnip
 
-A distributed OCR-based subtitle extraction system built with Go, RabbitMQ, Docker, and Python. Easily scale workers and extract subtitles from videos using videocr (PaddleOCR).
+A scalable OCR-based subtitle extraction system built with Go, RabbitMQ, Docker, and Python. Easily scale workers and extract subtitles from videos using videocr (PaddleOCR).
 
 ## ⚙️ Architecture
 
